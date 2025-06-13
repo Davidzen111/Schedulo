@@ -44,7 +44,7 @@ Contoh:
 - Kata Sandi: `ac0123`
 
 ## Tampilan Login
-![Tampilan Login](./assets/TampilanLogin.png)
+![Tampilan Login](assets/TampilanLogin.png)
 
 Jika berhasil login
 
