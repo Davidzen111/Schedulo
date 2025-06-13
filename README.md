@@ -1,16 +1,16 @@
 # Schedulo
 
-**Schedulo** adalah aplikasi manajemen proyek berbasis JavaFX yang dibuat dengan prinsip OOP. Aplikasi ini ditujukan untuk membantu pengguna dalam merencanakan proyek, membagi tugas-tugas ke dalam proyek tersebut, dan melacak progres penyelesaian tugas.
+**Schedulo** adalah aplikasi manajemen proyek berbasis JavaFX yang dibuat dengan prinsip OOP. Aplikasi ini ditujukan untuk membantu pengguna dalam merencanakan proyek, membagi tugas-tugas ke dalam proyek tersebut, dan menandai progres penyelesaian tugas.
 
 ## Fitur
 
 ## Register
 Pilih opsi untuk register
 ## Tampilan Register
-![Tampilan Register](link gambar register)
+![Tampilan Register]( https://ibb.co/6JrgjRfT)
 
 1. Jalankan aplikasi dan melakukan registrasi
-2. Masukkan username dan password yang diinginkan
+2. Masukkan username, password dan email yang diinginkan
 3. Selamat akun anda berhasil terbuat
 
 ### Login
@@ -19,7 +19,7 @@ Pilih opsi untuk register
 
 ### Dashboard
 - Melihat semua proyek yang sudah dibuat oleh user.
-- Menambahkan proyek baru dengan nama dan deskripsi.
+- Menambahkan proyek baru dengan nama dan deskripsi serta tenggat tugas
 - Menghapus proyek yang tidak diperlukan.
 
 ### Manajemen Tugas
@@ -31,8 +31,8 @@ Pilih opsi untuk register
 ## Instalasi
 1. Klon repositori ini:
    ```bash
-   git clone (link repo nanti)
-2. Jalankan (yang di run nanti) setelah aplikasi berhasil diimpor.
+   git clone https://github.com/Davidzen111/Schedulo.git
+2. Jalankan MainApp.java di VSCode setelah aplikasi berhasil diimpor.
 
 ## Langkah penggunaan
 ## Login
@@ -48,16 +48,17 @@ Contoh:
 Setelah melakukan Login
 
 ## Tampilan Dashboard
-![Tampilan Dashboard](link gambar dashboard)
+![Tampilan Dashboard]( https://ibb.co/JRwxmfcQ)
 
 Di halaman Dashboard, kamu bisa:
 - Melihat daftar proyek
 - Menambahkan proyek baru
 - Menghapus proyek yang tidak diinginkan
 - Membuka proyek untuk mengatur tugas-tugasnya
+-menandai active atau complete proyeknya
 
 ## Tampilan Menambahkan Proyek
-![Tampilan Tambah Schedule](Link Gambar Menambahkan Proyek)
+![Tampilan Tambah Schedule]( https://ibb.co/RTMgqTyr)
 
 fitur yang bisa digunakan
 1. Klik tombol **"Tambah Proyek"**.
@@ -73,6 +74,7 @@ fitur yang bisa digunakan
 
 Email:
 
-Email: 
+Email: davidzen662@gmail.com
 
 Email: arielmufaddhal1@gmail.com
+
