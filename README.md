@@ -30,7 +30,7 @@
 ## Register
 Pilih opsi daftar untuk register
 ## Tampilan Register
-![Tampilan Register](./assets/TampilanRegister.png)
+![Tampilan Register](./assest/TampilanRegister.png)
 
 1. Jalankan aplikasi dan melakukan registrasi
 2. Masukkan nama pengguna, kata sandi dan email yang diinginkan
@@ -44,12 +44,12 @@ Contoh:
 - Kata Sandi: `ac0123`
 
 ## Tampilan Login
-![Tampilan Login](assets/TampilanLogin.png)
+![Tampilan Login](assest/TampilanLogin.png)
 
 Jika berhasil login
 
 ## Tampilan Dashboard
-![Tampilan Dashboard](./assets/TampilanDashboard.png)
+![Tampilan Dashboard](./assest/TampilanDashboard.png)
 
 Di halaman Dashboard, kamu bisa:
 - Melihat daftar proyek
@@ -59,7 +59,7 @@ Di halaman Dashboard, kamu bisa:
 -menandai active atau complete proyeknya
 
 ## Tampilan Menambahkan Proyek
-![Tampilan Tambah Schedule](./assets/TampilanTambahProyek.png)
+![Tampilan Tambah Schedule](./assest/TampilanTambahProyek.png)
 
 fitur yang bisa digunakan
 1. Klik tombol **"Buat Proyek"**.
