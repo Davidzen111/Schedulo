@@ -4,15 +4,6 @@
 
 ## Fitur
 
-## Register
-Pilih opsi untuk register
-## Tampilan Register
-![Tampilan Register]( https://ibb.co/6JrgjRfT)
-
-1. Jalankan aplikasi dan melakukan registrasi
-2. Masukkan username, password dan email yang diinginkan
-3. Selamat akun anda berhasil terbuat
-
 ### Login
 - User dapat login menggunakan username dan password.
 - Validasi akun menggunakan file `users.txt`.
@@ -35,20 +26,30 @@ Pilih opsi untuk register
 2. Jalankan MainApp.java di VSCode setelah aplikasi berhasil diimpor.
 
 ## Langkah penggunaan
+
+## Register
+Pilih opsi daftar untuk register
+## Tampilan Register
+![Tampilan Register](./assets/TampilanRegister.png)
+
+1. Jalankan aplikasi dan melakukan registrasi
+2. Masukkan nama pengguna, kata sandi dan email yang diinginkan
+3. Selamat akun anda berhasil terbuat
+
 ## Login
 
-Gunakan akun yang sudah tersedia dalam `users.txt`.  
+Gunakan akun yang sudah kamu daftar tadi
 Contoh:
-- Username: `aco`
-- Password: `ac0123`
+- Nama Pengguna: `aco`
+- Kata Sandi: `ac0123`
 
 ## Tampilan Login
-![Tampilan Login](link gambar login)
+![Tampilan Login](./assets/TampilanLogin.png)
 
-Setelah melakukan Login
+Jika berhasil login
 
 ## Tampilan Dashboard
-![Tampilan Dashboard]( https://ibb.co/JRwxmfcQ)
+![Tampilan Dashboard](./assets/TampilanDashboard.png)
 
 Di halaman Dashboard, kamu bisa:
 - Melihat daftar proyek
@@ -58,21 +59,22 @@ Di halaman Dashboard, kamu bisa:
 -menandai active atau complete proyeknya
 
 ## Tampilan Menambahkan Proyek
-![Tampilan Tambah Schedule]( https://ibb.co/RTMgqTyr)
+![Tampilan Tambah Schedule](./assets/TampilanTambahProyek.png)
 
 fitur yang bisa digunakan
-1. Klik tombol **"Tambah Proyek"**.
+1. Klik tombol **"Buat Proyek"**.
 2. Masukkan **nama proyek** dan **deskripsi proyek**.
-3. Simpan proyek, dan proyek akan muncul di daftar proyek.
-4. Klik pada salah satu proyek → akan terbuka **Daftar Tugas**.
-5. Di halaman tugas, kamu bisa:
+3. Masukkan **tanggal mulai** dan **tanggal selesai**.
+4. Simpan proyek, dan proyek akan muncul di daftar proyek.
+5. Klik pada salah satu proyek → akan terbuka **Daftar Tugas**.
+6. Di halaman tugas, kamu bisa:
    - Menambahkan tugas baru
    - Melihat status tugas
    - Menandai tugas sebagai **Selesai**
 
 ## Kontak
 
-Email:
+Email: anugrahasharyabubakar@gmail.com
 
 Email: davidzen662@gmail.com
 
