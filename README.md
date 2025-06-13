@@ -64,7 +64,7 @@ Di halaman Dashboard, kamu bisa:
 fitur yang bisa digunakan
 1. Klik tombol **"Buat Proyek"**.
 2. Masukkan **nama proyek** dan **deskripsi proyek**.
-3. Masukkan **tanggal mulai** dan **tanggal selesai**.
+3. Atur **tanggal mulai** dan **tanggal selesai**.
 4. Simpan proyek, dan proyek akan muncul di daftar proyek.
 5. Klik pada salah satu proyek → akan terbuka **Daftar Tugas**.
 6. Di halaman tugas, kamu bisa:
